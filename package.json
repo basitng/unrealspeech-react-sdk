@@ -1,16 +1,16 @@
 {
   "name": "unrealspeech-react-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React SDK for UnrealSpeech API",
-  "author": "Unreal Speech <basitng2004@gmail.com>",
+  "author": "Unreal Speech <https://unrealspeech.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/unrealspeech-react-sdk.git"
+    "url": "https://github.com/unrealspeech/unrealspeech-react-sdk.git"
   },
-  "homepage": "https://github.com/your-username/unrealspeech-react-sdk#readme",
+  "homepage": "https://github.com/unrealspeech/unrealspeech-react-sdk#readme",
   "bugs": {
-    "url": "https://github.com/your-username/unrealspeech-react-sdk/issues"
+    "url": "https://github.com/unrealspeech/unrealspeech-react-sdk/issues"
   },
   "keywords": [
     "react",
