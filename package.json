@@ -1,6 +1,6 @@
 {
   "name": "unrealspeech-react-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React SDK for UnrealSpeech API",
   "author": "Unreal Speech <basitng2004@gmail.com>",
   "license": "MIT",
